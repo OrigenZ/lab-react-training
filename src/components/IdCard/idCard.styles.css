@@ -1,0 +1,8 @@
+
+.IdCard {
+  display: -webkit-flex;
+  display: flex;
+}
+.IdCard span {
+  font-weight: bold;
+}
